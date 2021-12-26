@@ -2,5 +2,5 @@
 Ninja Legends Cheat using python script
 
 ## Usage
-* `pip install -r requirements.txt`
+* `python -m pip install requests`
 * `python cheat.py`
