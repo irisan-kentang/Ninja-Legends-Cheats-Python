@@ -14,3 +14,6 @@ If you are using android, you can install python using termux
 * `cd Ninja-Legends-Cheats-Python`
 * `python -m pip install requests`
 * `python cheat.py`
+
+## Authors
+* Irisan-Kentang
